@@ -1,3 +1,3 @@
-from django.db import models
+from rest_framework.serializers import ModelSerializer, SerializerMethodField
 
-# Create your models here.
+from DRF_Minimal_Starter.core import models
