@@ -1,0 +1,13 @@
+/venv
+migrations
+test
+__pycache__
+*.sqlite3
+media
+vcs.xml
+*.exe
+*.pyc
+*.cpython-311.pyc
+.env
+file.txt
+test_*
